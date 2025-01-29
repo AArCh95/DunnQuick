@@ -86,7 +86,7 @@ customtkinter
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/DunnQuick.git
+   git clone https://github.com/AArCh95/DunnQuick.git
    cd DunnQuick
    ```
 
